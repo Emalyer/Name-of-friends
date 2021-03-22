@@ -1,0 +1,18 @@
+body{
+    font-size: 30px;
+    color:peachpuff;
+    background-color:seashell;
+}
+input{
+    padding:15px;
+    background-color: springgreen;
+    border-style: groove;
+    border:2px;
+    border-color: powderblue;
+}
+button{
+    background-color:gold;
+    width: 100px;
+    height: 60px;
+    font-size: 25px;
+}
